@@ -14,7 +14,7 @@ namespace MyFirstGitHub
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-			
+            Console.WriteLine("Fearute - 1");
         }
     }
 }
