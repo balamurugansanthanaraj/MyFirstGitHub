@@ -16,7 +16,7 @@ namespace MyFirstGitHub
         {
             Console.WriteLine("Feature-3");
             Console.WriteLine("I am here from master");
-
+             Console.WriteLine("Feature-3");
         }
     }
 }
