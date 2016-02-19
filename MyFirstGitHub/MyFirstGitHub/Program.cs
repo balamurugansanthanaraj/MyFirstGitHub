@@ -8,6 +8,10 @@ namespace MyFirstGitHub
 {
     class Program
     {
+        /// <summary>
+        /// Entry method
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
         }
