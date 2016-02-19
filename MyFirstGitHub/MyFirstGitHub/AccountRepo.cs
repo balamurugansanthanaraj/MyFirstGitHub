@@ -8,5 +8,9 @@ namespace MyFirstGitHub
 {
     class AccountRepo
     {
+        public void CreateAccount()
+        {
+
+        }
     }
 }
