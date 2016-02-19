@@ -9,7 +9,7 @@ namespace MyFirstGitHub
     class Program
     {
         /// <summary>
-        /// Entry method
+        /// Entry method for Console application
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
