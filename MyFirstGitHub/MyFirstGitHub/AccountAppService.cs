@@ -8,6 +8,6 @@ namespace MyFirstGitHub
 {
     class AccountAppService
     {
-        public float Age{get;set;}
+       
     }
 }
