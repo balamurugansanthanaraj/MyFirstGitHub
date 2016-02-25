@@ -14,6 +14,9 @@ namespace MyFirstGitHub
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            Console.WriteLine("Feature-3");
+            Console.WriteLine("I am here from master");
+             Console.WriteLine("Feature-3");
             Console.WriteLine("Fearute - 1");
         }
     }
